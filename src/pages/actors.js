@@ -10,6 +10,7 @@ const Actors = () => {
 // i have made all chnages and want to see in master
 //raising pr to master
 //commited again before merging pr in main
+//ammending in actor.js
   const handleAddNewActor = () => {
     navigate('/actors/create-edit'); // Replaces props.history.push
   };
