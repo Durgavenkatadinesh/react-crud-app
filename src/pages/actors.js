@@ -7,6 +7,7 @@ const Actors = () => {
   const navigate = useNavigate(); // Hook to navigate programmatically
   // hi
   //hello
+  //hi
 
   const handleAddNewActor = () => {
     navigate('/actors/create-edit'); // Replaces props.history.push
