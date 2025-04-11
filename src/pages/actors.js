@@ -5,6 +5,8 @@ import ActorList from '../components/actor-list';
 
 const Actors = () => {
   const navigate = useNavigate(); // Hook to navigate programmatically
+  // hi
+  //hello
 
   const handleAddNewActor = () => {
     navigate('/actors/create-edit'); // Replaces props.history.push
