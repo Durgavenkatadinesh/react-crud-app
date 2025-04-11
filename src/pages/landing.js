@@ -8,7 +8,8 @@ const Landing = () => {
 
 
 //commited again before merging pr in main
-//checking for git reset commit
+//checking for git reset commit 
+//done reset and updateingthe push
   return (
     <>
         <Row>
