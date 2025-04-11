@@ -15,6 +15,10 @@ const Landing = () => {
 //again doing reset
 //ammend in landing.js
 //added amend
+
+
+
+//checking stash
   return (
     <>
         <Row>
