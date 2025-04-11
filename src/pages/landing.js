@@ -7,6 +7,18 @@ const Landing = () => {
     const [show, setShow] = useState(false)
 
 
+//commited again before merging pr in main
+//checking for git reset commit 
+//done reset and updateingthe push
+//checking for git reset commit 
+//done reset and updateingthe push
+//again doing reset
+//ammend in landing.js
+//added amend
+
+
+
+//checking stash
   return (
     <>
         <Row>
