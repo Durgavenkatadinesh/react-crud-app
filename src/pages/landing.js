@@ -13,6 +13,7 @@ const Landing = () => {
 //checking for git reset commit 
 //done reset and updateingthe push
 //again doing reset
+//ammend in landing.js
   return (
     <>
         <Row>
